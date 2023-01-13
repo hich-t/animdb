@@ -1,7 +1,7 @@
 {
   "name": "projet-movies-api",
   "version": "0.1.0",
-  "homepage": "https//hich-t.github.io/animdb",
+  "homepage": "https//hich-t.github.io/animdb/src/index.js",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
